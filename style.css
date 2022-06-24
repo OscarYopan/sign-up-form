@@ -156,6 +156,15 @@ html{
   color: #555;  
 }
 
+.social-media a{
+  text-decoration: none;
+}
+
+.social-media a:hover{
+  transform: translateY(-.5rem);
+  color: #3aaf9f;
+}
+
 .signup-form p{
   font-size: 1.8rem;
   color: #555;
