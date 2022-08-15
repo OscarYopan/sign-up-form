@@ -221,3 +221,7 @@ html{
   margin-top: 3rem;
   cursor: pointer;
 }
+
+button:hover {
+  font-size: 2rem;
+}
